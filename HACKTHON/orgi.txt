@@ -1,0 +1,22 @@
+<HTML>
+<HEAD><TITLE>kseb website</TITLE></HEAD>
+<BODY bgcolor="#5CDB95">
+<FONT COLOR="#05386B">
+<CENTER><H1 style="font-size:60px;" >NUCLEYA</H1>
+<H2> CAREING FOR THE FUTURE</H1></></CENTER>
+<H2>ABOUT US</H2>
+<H3 style="font-size:20px";>NucleyA  is trying to gave a sustainable environment for the upcoming future generation.<br>Here in nucleya we try to solve power over consumption problems faced among various areas like KSEB,TATA POWER  etc. </H3>
+<H2>KSEB</H2>
+<H3>For electric power usage deatails for KSEB users please click the link below<br>COMMERCIAL-Houses only(Domestic power supply only)<br>INDUSTRIAL-Heavy machinery shops,Light machinery shops(retail shops)<br>EDUCATION-Educational Institution<colleges also included)
+<br></h2>
+
+<OL TYPE="1">
+  <a href=https://www.kseb.in/index.php?lang=en"><LI>COMMERCIAL</LI></a><ti
+  <LI>INDUSTRIAL</LI>
+  <LI>EDUCATIONAL</LI>
+  <LI>HOSPITAL</LI>
+</OL>
+<IMG SRC="C:\Users\arsha\OneDrive\Desktop\HACKTHON\kseb.jpg" width="200" align="left"><IMG SRC="C:\Users\arsha\OneDrive\Desktop\HACKTHON\1200px-Tata_Power_logo.svg.jpg"width="200" align="right">
+<CENTER><IMG SRC="C:\Users\arsha\OneDrive\Desktop\HACKTHON\PGCI.jpg"  width="200"></CENTER>
+</BODY>
+</HTML>
